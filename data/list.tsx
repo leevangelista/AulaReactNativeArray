@@ -1,0 +1,1 @@
+export const listaProdutos = [ "Poduto 01", "Poduto 02"];
